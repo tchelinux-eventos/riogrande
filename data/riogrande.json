@@ -1,0 +1,41 @@
+{
+    "id": "riogrande",
+    "date": "2018-05-19",
+    "city": "Rio Grande",
+    "institution": {
+        "courses": [
+            {
+                "name": "Engenharia de Computação",
+                "url": "http://www.ecomp.furg.br/"
+            }
+        ],
+        "long_name": "Universidade Federal do Rio Grande",
+        "short_name": "FURG",
+        "address": "Centro de Ciências Computacionais - RS-734, S/N - Rio Grande, RS",
+        "url": "https://www.furg.br/",
+        "logo": "FURG.png",
+        "latitude": -32.072884,
+        "longitude": -52.168739
+    },
+    "sponsors": [
+    ],
+    "support": [
+    ],
+    "rooms" : [
+        { "number": "1", "subject": "" },
+        { "number": "2", "subject": "" },
+        { "number": "3", "subject": "" }
+    ],
+    "callForPapers": {
+        "url": "https://goo.gl/forms/RRFRvcLnIFoyW28D2",
+        "deadline": "2018-04-15",
+        "start": "2018-03-12"
+    },  
+    "enrollment": {
+        "start": "2018-04-16",
+        "deadline": "2018-05-18",
+        "url": "https://goo.gl/forms/iNL3jXxeGCp5cCZp1",
+        "availability": 200,
+        "closed": false
+    }   
+}
