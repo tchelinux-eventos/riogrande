@@ -3,19 +3,15 @@
     "date": "2018-05-19",
     "city": "Rio Grande",
     "institution": {
-        "courses": [
-            {
-                "name": "Engenharia de Computação",
-                "url": "http://www.ecomp.furg.br/"
-            }
-        ],
-        "long_name": "Universidade Federal do Rio Grande",
+        "long_name": "Universidade Federal de Rio Grande",
         "short_name": "FURG",
         "address": "Centro de Ciências Computacionais - RS-734, S/N - Rio Grande, RS",
-        "url": "https://www.furg.br/",
+        "url": "https://www.ecomp.furg.br/",
         "logo": "FURG.png",
         "latitude": -32.072884,
-        "longitude": -52.168739
+        "longitude": -52.168739,
+        "diretorio": "Diretório Acadêmico da Engendiaria de Computação"
+
     },
     "sponsors": [
         {
