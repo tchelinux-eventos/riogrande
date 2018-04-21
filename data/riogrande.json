@@ -18,13 +18,25 @@
         "longitude": -52.168739
     },
     "sponsors": [
+        {
+            "long_name": "devopers cloud solutions",
+            "short_name": "devopers",
+            "url": "https://devopers.com.br",
+            "logo": "devopers.png"
+        },
+        {
+            "long_name": "Melhor Envio",
+            "short_name": "Melhor Envio",
+            "url": "https://www.melhorenvio.com.br",
+            "logo": "melhor_envio.png"
+        }
     ],
     "support": [
     ],
     "rooms" : [
-        { "number": "1", "subject": "" },
-        { "number": "2", "subject": "" },
-        { "number": "3", "subject": "" }
+        { "number": "1", "subject": "Desenvolvimento" },
+        { "number": "2", "subject": "Cloud, IoT e Infra" },
+        { "number": "3", "subject": "Filosofia, Comunidade e Empreendedorismo" }
     ],
     "callForPapers": {
         "url": "https://goo.gl/forms/RRFRvcLnIFoyW28D2",
