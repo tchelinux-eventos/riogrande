@@ -29,6 +29,10 @@
     ],
     "support": [
     ],
+    "result": {
+        "attendants": 127,
+        "donations": 133
+    },
     "rooms" : [
         { "number": "1", "subject": "Desenvolvimento" },
         { "number": "2", "subject": "Cloud, IoT e Infra" },
