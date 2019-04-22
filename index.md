@@ -214,6 +214,9 @@ Palestra focada ao público mais jovem. Através de uma análise do mercado atua
 
 ### Patrocínio
 
+[![RCA](images/logo_rca.png)](http://www.rcadigital.com.br/)
+[![Compasso](images/logo_compasso.png)](http://www.compasso.com.br/)
+[![Corsan](images/logo_corsan.png)](http://www.corsan.com.br/inicial)
 
 ### Divulgação
 
