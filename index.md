@@ -8,7 +8,7 @@ O grupo de usuários de Software Livre Tchelinux, em parceria com o [Instituto F
 
  O evento tem **entrada franca**, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são doados a instituições de caridade da região. Os alimentos são recebidos no momento do credenciamento.
 
-<a href="" target="_blank"><b>Clique aqui para fazer sua inscrição!</b></a>
+<a href="https://forms.gle/gqwrcMivTLCKh8MF9" target="_blank"><b>Clique aqui para fazer sua inscrição!</b></a>
 
 ## Certificados
 
