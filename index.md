@@ -31,6 +31,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **15:10** <td colspan=4><center>**Coffee-Break**</center> |
 | **15:40** |  [**Introdução à programação funcional com Clojure**](#Introdução_à_programação_funcional_com_Clojure) <br> <span class="label label-success">Principiante</span> <br> Victor Hechel Colares |  [**Criando um Chatbot com Node.js e Watson**](#Criando_um_Chatbot_com_Node.js_e_Watson) <br> <span class="label label-success">Principiante</span> <br> Lucas Venturella |  [**Bikeshedding**](#Bikeshedding) <br> <span class="label label-success">Principiante</span> <br> Márcio Josué Ramos Torres | 
 | **16:30** |  [**Visualização de dados com o Superset**](#Visualização_de_dados_com_o_Superset) <br> <span class="label label-warning">Intermediário</span> <br> Diego Novaes Bechtlufft |  [**Typescript - O Superset da linguagem javascript**](#Typescript_-_O_Superset_da_linguagem_javascript) <br> <span class="label label-warning">Intermediário</span> <br> Robinson Luiz Acosta  |  [**Me formei. E agora?**](#Me_formei._E_agora?) <br> <span class="label label-success">Principiante</span> <br> Matheus Cezar | 
+| **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 
 ## Palestras
 
