@@ -212,6 +212,7 @@ Palestra focada ao público mais jovem. Através de uma análise do mercado atua
 ### Institucional
 
 [![IFRS](images/ifrs.jpg)](https://ifrs.edu.br/riogrande/)
+[![FURG](images/furg.png)](https://www.furg.br/)
 
 ### Patrocínio
 
