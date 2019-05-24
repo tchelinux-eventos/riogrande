@@ -113,10 +113,9 @@ No Rio Grande do Sul, cerca de 85,3% da movimentação de cargas é ocupado pelo
 
 Nesta palestra criaremos uma API REST utilizando NodeJS como um ambiente de execução Javascript server-side. Também utilizaremos Express Middleware para criarmos nossas rotas e MongoDB como banco de dados NoSQL.
 
-### Robinson Luiz
+### Robinson Luiz Acosta
 
-[Robison Luiz](https://br.linkedin.com/in/robinson-luiz-656a55164) é Desenvolvedor de Software na Compasso em Rio Grande.
-
+[Robison Luiz Acosta](https://br.linkedin.com/in/robinson-luiz-656a55164) é estudante do TADS no IFRS e trabalha atualmente na área de microservicos e na área de inovações (LABS) da Compasso.
 
 ### O que é Ciência de Dados? 
 
